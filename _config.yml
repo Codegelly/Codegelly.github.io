@@ -1,11 +1,11 @@
 # Site settings
-author: Angelica  Thompson
-title: 
+author: Angie
+title: CodeGelly Dev 
 header-img: img/home-bg.png
 email: i.thompson89@outlook.com
-copyright_name: Angelica  Thompson
+copyright_name: Angie
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Starting this coding journey >< 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Codegelly
